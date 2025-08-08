@@ -2,13 +2,13 @@ const messages = [
     "Emin misin?",
     "Ciddili mi??",
     "Harbili mi?",
-    "Woki pokim lütfen...",
-    "Bir sans dahaaa!",
-    "Yoook deme düsün...",
-    "Üzülüyom...",
-    "Koskocaman üzülüyom...",
-    "Tmm, gidiyom...",
-    "Saka yaptim, gitmiyom! ❤️"
+    "Seni sikerim...",
+    "Kendini domalttırma!",
+    "Bir düşün...",
+    "İletişim kur...",
+    "Yarrama bak...",
+    "En büyük oçum...",
+    "❤️"
 ];
 
 let messageIndex = 0;
